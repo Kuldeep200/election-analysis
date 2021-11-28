@@ -1,5 +1,5 @@
 # election-analysis
-Overview of Election Audit: Explain the purpose of this election audit analysis
+# Overview of Election Audit: Explain the purpose of this election audit analysis
 Purpose was to  get the follwoing information from  Colorado Board of Elections;
   1)  Calculate the total number of votes cast.
   2)  Get a complete list of candidates who received votes.
