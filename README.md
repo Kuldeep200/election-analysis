@@ -22,7 +22,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
     Arapahoe: 6.7% (24,801)
 
  
-   3) Which county had the largest number of votes?
+   3)Which county had the largest number of votes?
   
   
      Largest County Turnout: Denver
@@ -32,7 +32,7 @@ Election-Audit Results: Using a bulleted list, address the following election ou
      Winning County Percentage: 82.8%
 
   
-    4) provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+    4)provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
   
     Charles Casper Stockham: 23.0% (85,213)
