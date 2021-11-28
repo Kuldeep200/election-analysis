@@ -1,11 +1,11 @@
 # election-analysis
 Overview of Election Audit: Explain the purpose of this election audit analysis
 Purpose was to  get the follwoing information from  Colorado Board of Elections;
-  Calculate the total number of votes cast.
-  Get a complete list of candidates who received votes.
-  Calculate the total number of votes each candidate received.
-  Calculate the percentage of votes each candidate won.
-  Determine the winner of the election based on popular vote.
+  1)  Calculate the total number of votes cast.
+  2)  Get a complete list of candidates who received votes.
+  2)  Calculate the total number of votes each candidate received.
+  3)  Calculate the percentage of votes each candidate won.
+  4)  Determine the winner of the election based on popular vote.
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 #How many votes were cast in this congressional election?
