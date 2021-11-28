@@ -8,7 +8,7 @@ Purpose was to  get the follwoing information from  Colorado Board of Elections;
   4)  Determine the winner of the election based on popular vote.
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-  #How many votes were cast in this congressional election?
+  How many votes were cast in this congressional election?
   Total Votes Cast in this congressional election was 369,711
 
 
