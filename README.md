@@ -15,20 +15,23 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 
   2) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   
-  Jefferson: 10.5% (38,855)
+    Jefferson: 10.5% (38,855)
   
-  Denver: 82.8% (306,055)
+    Denver: 82.8% (306,055)
   
-  Arapahoe: 6.7% (24,801)
+    Arapahoe: 6.7% (24,801)
 
-  3) Which county had the largest number of votes?
-  
-  Largest County Turnout: Denver
-  
-  Winning County Vote: 306,055
  
-  Winning County Percentage: 82.8%
+ 3) Which county had the largest number of votes?
+  
+  
+    Largest County Turnout: Denver
+  
+    Winning County Vote: 306,055
+ 
+     Winning County Percentage: 82.8%
 
+  
   4)  provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
   Charles Casper Stockham: 23.0% (85,213)
