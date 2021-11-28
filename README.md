@@ -9,13 +9,13 @@ Purpose was to  get the follwoing information from  Colorado Board of Elections;
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
   1) How many votes were cast in this congressional election?
-  Total Votes Cast in this congressional election was 369,711
+    *Total Votes Cast in this congressional election was 369,711
 
 
   2) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  Jefferson: 10.5% (38,855)
-  Denver: 82.8% (306,055)
-  Arapahoe: 6.7% (24,801)
+  *Jefferson: 10.5% (38,855)
+  *Denver: 82.8% (306,055)
+  *Arapahoe: 6.7% (24,801)
 
   3) Which county had the largest number of votes?
   Largest County Turnout: Denver
