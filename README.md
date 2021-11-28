@@ -8,19 +8,19 @@ Purpose was to  get the follwoing information from  Colorado Board of Elections;
   4)  Determine the winner of the election based on popular vote.
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-#How many votes were cast in this congressional election?
-Total Votes Cast in this congressional election was 369,711
+  #How many votes were cast in this congressional election?
+  Total Votes Cast in this congressional election was 369,711
 
 
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  Jefferson: 10.5% (38,855)
+  Denver: 82.8% (306,055)
+  Arapahoe: 6.7% (24,801)
 
-#Which county had the largest number of votes?
-Largest County Turnout: Denver
-Winning County Vote: 306,055
-Winning County Percentage: 82.8%
+  #Which county had the largest number of votes?
+  Largest County Turnout: Denver
+  Winning County Vote: 306,055
+  Winning County Percentage: 82.8%
 
 #Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Charles Casper Stockham: 23.0% (85,213)
